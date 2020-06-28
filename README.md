@@ -3,6 +3,6 @@ A portfolio still in the developing stage.
 
 Check it out below.
 
-https://chandran-jr.github.io/portfolio/
+<a href="https://chandran-jr.github.io/portfolio/"> My Website</a>
 
 

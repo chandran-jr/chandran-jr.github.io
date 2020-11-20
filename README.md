@@ -1,7 +1,8 @@
-# portfolio
-A portfolio still in the developing stage, will be updating it as i grow.
+# My portfolio
 
-Check out below.
+Check frequently for updates😃
+
+Check it out below.
 
 <a href="https://chandran-jr.github.io/"> My Website</a>
 

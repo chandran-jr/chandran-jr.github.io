@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: chandran-jr.github.io
+Token: a7e49b4b6cc52c169d12d3b7e52fb0894496d7a1918c3d6687ab9bb6710dc5a5

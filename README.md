@@ -1,6 +1,6 @@
 # My portfolio
 
-Check frequently for updates😃
+Check frequently for updates.😃
 
 Do leave a star if you liked it. You may also clone it and convert it into your own..its open-source ofc😉
 
